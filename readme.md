@@ -40,4 +40,6 @@ spans only take up as much space as needed.
 - learn and get a head.
 - build lots of projects 
 - try upwork
+  
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/6287a195-1b47-494c-9262-87ce7bf0c28a)
 
