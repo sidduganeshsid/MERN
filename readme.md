@@ -31,3 +31,13 @@ css lets you to add styles the website and position the elements on the page.
 
 divs always take up all the space available horizontally.
 spans only take up as much space as needed.
+
+# W1
+## week 1.1 | Orientation class
+
+- Head down and focus 
+- contribute to the open source projects
+- learn and get a head.
+- build lots of projects 
+- try upwork
+
