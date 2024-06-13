@@ -48,7 +48,6 @@ spans only take up as much space as needed.
 ![image](https://github.com/sidduganeshsid/MERN/assets/94279014/6287a195-1b47-494c-9262-87ce7bf0c28a)
 
 
-# W2 
 ## w1.2 JS Foundation
 (enough js concepts will be taught)
 
@@ -144,4 +143,74 @@ c = 20;
 console.log(c);
 ```
 
+## 1.3 | Basic JS APIs
+
+parseInt() is a global function.
+
+> study about callbacks, map, filter, find, sort (arrays)
+
+- class means give out a struture of something that's reusable and can be usable at multiple places.
+
+class and object, static method
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/235d1178-161e-4567-aa0c-9a8aa2dd75dc)
+
+//JSON.parse
+//JSON.stringify
+
+>npm install
+
+To test
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/283e6e67-556a-4ae0-9775-b4ce0a0d60b8)
+
+## 1.4 loops , functions and callbacks in JS
+
+functions
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/a715fdc7-0534-4675-99f1-76dc53e98e88)
+
+## 1.5 Async function vs sync func
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/b9b54912-32d7-47ed-968e-b3e4c3b63843)
+sync = one thing after another thing.(one thing at a time)
+
+(until now all the above are done using sync functions)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/62839586-f485-49cc-98bd-58e276025a21)
+
+- setTimeout() is a async function.
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/6a295de7-f10c-429f-936d-371ed11668ad)
+
+- callbacks are mostly used in async functions (not much in sync)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/854a6182-e1a0-403a-bca9-b13137588bf9)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/b8acf8a2-b170-494b-b3aa-605e783598b3)
+
+promises
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/d658662a-6f4e-401c-8574-538813356bb9)
+
+in promises callbacks are not used.
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/53d018ad-cc6d-45d8-b00a-13dfbc61c65e)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/f9843116-4a0a-4ec5-a03c-726ceb6093c4)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/8b238519-e8fe-4e24-be53-cb57dcc94177)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/97fd00d2-6cd2-4da4-b240-3fa1d0ae5a1b)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/c8414108-4368-48d6-85ae-fdc6ac898bd7)
+
+# W2
+
+## 2.1 Revision of Promises, Async JS
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/a01226af-5061-4100-a77e-ff33f32c35f9)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/f1d726c7-1bbc-4932-b0a8-e6e08c0b2f38)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/c18a4271-dba5-48ea-a7a2-2105600896b0)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/67c388af-dc47-4fd2-b129-5321ab39fa44)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/b336d641-8415-40a5-82fa-00f60ce57a94)
+
+## 2.2 Node.js runtime | HTTP
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/b38d2590-2f10-4dd5-b8c8-92e90b74461e)
+
+express
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/a0f4645f-04ce-445e-8369-8edbaf9a958f)
 
