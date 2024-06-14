@@ -422,3 +422,71 @@ to see the history of all cmds you ran
 >bash is not only about the writing the scripts or cmds, you can automate the scripts
 >bash is language the you write the scripts and execute it.
 ![image](https://github.com/sidduganeshsid/MERN/assets/94279014/bc534908-c2eb-43d5-855b-c51377ab13b6)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/2fe04350-c21a-4af2-9b11-e98e57c1da75)
+
+for mac node installation
+1. install HOMEBREW
+   ![image](https://github.com/sidduganeshsid/MERN/assets/94279014/cd2f892c-edd5-42ae-b430-df65d0b1b410)
+
+linux
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/d2409a65-1258-468c-bf43-ba7e663f96a4)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/340daa7c-2831-4a41-8e74-c1cd06da8df8)
+
+edit
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/2b740c16-66dc-46e1-b23d-9cb462f0fc7a)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/f4d8b90e-e419-494c-b0ff-9aaebc7f7762)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/5f4cfbd6-bbc0-48b5-af9d-fdbefaef2557)
+
+windows
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/ca7c3158-a77b-434d-8623-f19c118c3c7d)
+
+-----
+grep, sed and awk are the powerfull cmds
+grep for pattern and match
+sed is special for subsitutions
+awk is itself a scripting lang, it allows to write arithemethic, comparisions, custom fetching of files, etc....
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/0909592f-f5b0-4274-9970-e89c73af4721)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/730df831-1ed1-4429-a63d-a229e17a299d)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/c65e17e5-b87b-489c-9975-ded322198882)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/b5bdaa7c-2c83-4619-b667-b85de4048a55)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/359cd7c1-81ca-4d65-90f5-98812677a3ef)
+
+before and after
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/98276136-f001-45ee-afe7-62549c1d2a69)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/bdb9c8a2-1156-4fd7-92d6-0c0b85267f76)
+
+-n = lines
+p = print out
+(replacing the occurence)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/5008298c-12cf-4c5c-b392-b840aa065abd)
+
+this cmd created the backup
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/a353ddc9-256c-43bc-918c-c335c4864b37)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/b9de1130-2c71-4a9b-a108-6a38d68921d8)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/61cd5a49-2c2d-44b2-ba85-c6046c91978b)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/a8c21be8-1b67-4c56-a036-17c7c8cf4040)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/9cdbcb98-d1f3-4f55-bd05-05347e471896)
+
+replace the pattern
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/64e934e8-c7e3-48e3-b5f1-8ea8bc25d0ab)
+
+adding header and footer
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/45d8aabd-a0c1-46b9-95bf-56e93812058b)
+
+first col and second col
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/f0baeca4-7752-480b-9e45-dd2ed35e70ae)
+
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/7e1ba2f1-58ab-4e40-8f7c-9d1dbb972471)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/50760037-e1c2-4490-afbe-5f1f959a2c40)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/a795c113-0a19-4e6b-8a75-dac9577363e4)
+
+(help ful when you are working with build trace or track traces in big projects)
+![image](https://github.com/sidduganeshsid/MERN/assets/94279014/b8554836-d7a1-47b0-8cf6-61d0309563c2)
