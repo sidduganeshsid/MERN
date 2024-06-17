@@ -1,0 +1,22 @@
+body{
+    background-color: #202124;
+}
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+}
+.nav{ display: flex;}
+
+.nav-item
+{
+    padding: 10px;
+}
+
+.menu
+{
+    float: left;
+    display: inline;
+    padding: 10px;
+}
